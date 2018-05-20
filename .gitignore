@@ -1,0 +1,11 @@
+*.yml
+*.pyc
+face-auth.db
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
